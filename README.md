@@ -1,4 +1,4 @@
-#FizzBuzz Project
+### FizzBuzz Project
 Fizzbuzz Project merupakan program untuk menampilkan angka 1 hingga 100 secara berurutan dengna kondisi sebagai berikut :
 1. Jika habis dibagi 3 dan 5, ditampilkan "FizzBuzz"
 2. Jika habis dibagi 3, ditampilkan "Fizz"
