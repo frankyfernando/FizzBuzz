@@ -24,4 +24,4 @@ for (let i = 1; i <= 100; i++){
 };
 ```
 Code tersebut akan melakukan perulangan sebanyak seratus kali sambil mengecek apakah habis dibagi 3, habis dibagi 5, atau habis dibagi keduanya.
-% di dalam if adalah menampilkan sisa bagi. Jadi bisa dibilang begini "jika hasil sisa bagi setelah dibagi 3 dari i merupakan 0 maka muncul "Fizz", jika hasil sisa bagi setelah bagi 3 dan 5 merupakan 0 maka muncul FizzBuzz, jika habis bagi setelah bagi 5 merupakan 0 maka muncul Buzz, jika semua kondisi tidak memenuhi maka muncul angka.
+% di dalam if merupakan sisa bagi. Jadi bisa dibilang begini "jika hasil sisa bagi setelah dibagi 3 dari i merupakan 0 maka muncul "Fizz", jika hasil sisa bagi setelah bagi 3 dan 5 merupakan 0 maka muncul FizzBuzz, jika habis bagi setelah bagi 5 merupakan 0 maka muncul Buzz, jika semua kondisi tidak memenuhi maka muncul angka.
